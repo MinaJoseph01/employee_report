@@ -2,6 +2,7 @@
  
 Project Description
 This Power BI project is an employee report dashboard that provides insights into employee jobs in the Middle East, organized by department, gender, race, country, and average salary.
+![Screenshot 2023-08-19 235501](https://github.com/MinaJoseph01/employee_report/assets/142174893/fec96a33-d6ef-4930-9f2e-bba2a02aca4f)
 
 Features
 Employee job distribution by department
